@@ -1,0 +1,149 @@
+Bridges P100 GPU (mpicc -acc).
+
+1 MPI Node:
+Nodes: 1
+Rank: 0, Elapsed: 0.321826, Overall: 0.452498 
+Nodes: 1
+Rank: 0, Elapsed: 0.303997, Overall: 0.395293 
+Nodes: 1
+Rank: 0, Elapsed: 0.304072, Overall: 0.391778 
+Nodes: 1
+Rank: 0, Elapsed: 0.301403, Overall: 0.389250 
+Nodes: 1
+Rank: 0, Elapsed: 0.304632, Overall: 0.392709 
+Nodes: 1
+Rank: 0, Elapsed: 0.304088, Overall: 0.393051 
+Nodes: 1
+Rank: 0, Elapsed: 0.303473, Overall: 0.392476 
+Nodes: 1
+Rank: 0, Elapsed: 0.304481, Overall: 0.393210 
+Nodes: 1
+Rank: 0, Elapsed: 0.305461, Overall: 0.392602 
+Nodes: 1
+Rank: 0, Elapsed: 0.302755, Overall: 0.391737 
+
+2 MPI Nodes:
+Nodes: 2
+Rank: 0, Elapsed: 0.265310, Overall: 0.314900 
+Rank: 1, Elapsed: 0.279716, Overall: 0.343835 
+Nodes: 2
+Rank: 1, Elapsed: 0.263111, Overall: 0.309136 
+Rank: 0, Elapsed: 0.262238, Overall: 0.309243 
+Nodes: 2
+Rank: 1, Elapsed: 0.261481, Overall: 0.306180 
+Rank: 0, Elapsed: 0.262707, Overall: 0.308534 
+Nodes: 2
+Rank: 1, Elapsed: 0.259615, Overall: 0.303940 
+Rank: 0, Elapsed: 0.260874, Overall: 0.306382 
+Nodes: 2
+Rank: 1, Elapsed: 0.261106, Overall: 0.304638 
+Rank: 0, Elapsed: 0.261505, Overall: 0.307229 
+Nodes: 2
+Rank: 1, Elapsed: 0.259587, Overall: 0.304771 
+Rank: 0, Elapsed: 0.261289, Overall: 0.307756 
+Nodes: 2
+Rank: 1, Elapsed: 0.260175, Overall: 0.304476 
+Rank: 0, Elapsed: 0.263133, Overall: 0.309229 
+Nodes: 2
+Rank: 1, Elapsed: 0.260283, Overall: 0.305056 
+Rank: 0, Elapsed: 0.263530, Overall: 0.309648 
+Nodes: 2
+Rank: 0, Elapsed: 0.264573, Overall: 0.311718 
+Rank: 1, Elapsed: 0.260432, Overall: 0.306152 
+Nodes: 2
+Rank: 1, Elapsed: 0.258807, Overall: 0.303011 
+Rank: 0, Elapsed: 0.267304, Overall: 0.313660 
+
+3 MPI Nodes:
+Nodes: 3
+Rank: 0, Elapsed: 0.253571, Overall: 0.288898 
+Rank: 1, Elapsed: 0.250055, Overall: 0.291063 
+Rank: 2, Elapsed: 0.260203, Overall: 0.302276 
+Nodes: 3
+Rank: 0, Elapsed: 0.246806, Overall: 0.276361 
+Rank: 1, Elapsed: 0.250223, Overall: 0.281816 
+Rank: 2, Elapsed: 0.250935, Overall: 0.282926 
+Nodes: 3
+Rank: 1, Elapsed: 0.243692, Overall: 0.274869 
+Rank: 0, Elapsed: 0.248641, Overall: 0.280710 
+Rank: 2, Elapsed: 0.250361, Overall: 0.281332 
+Nodes: 3
+Rank: 1, Elapsed: 0.248080, Overall: 0.279317 
+Rank: 2, Elapsed: 0.250239, Overall: 0.281527 
+Rank: 0, Elapsed: 0.250118, Overall: 0.282392 
+Nodes: 3
+Rank: 1, Elapsed: 0.246509, Overall: 0.276461 
+Rank: 0, Elapsed: 0.249256, Overall: 0.281246 
+Rank: 2, Elapsed: 0.251851, Overall: 0.282928 
+Nodes: 3
+Rank: 1, Elapsed: 0.241691, Overall: 0.272583 
+Rank: 0, Elapsed: 0.249067, Overall: 0.280630 
+Rank: 2, Elapsed: 0.251815, Overall: 0.282782 
+Nodes: 3
+Rank: 2, Elapsed: 0.238004, Overall: 0.267839 
+Rank: 1, Elapsed: 0.246905, Overall: 0.277618 
+Rank: 0, Elapsed: 0.247095, Overall: 0.279397 
+Nodes: 3
+Rank: 1, Elapsed: 0.246715, Overall: 0.277490 
+Rank: 0, Elapsed: 0.245717, Overall: 0.277631 
+Rank: 2, Elapsed: 0.250281, Overall: 0.281596 
+Nodes: 3
+Rank: 1, Elapsed: 0.242553, Overall: 0.270699 
+Rank: 2, Elapsed: 0.251151, Overall: 0.282113 
+Rank: 0, Elapsed: 0.250737, Overall: 0.282691 
+Nodes: 3
+Rank: 1, Elapsed: 0.244770, Overall: 0.272209 
+Rank: 2, Elapsed: 0.250317, Overall: 0.281199 
+Rank: 0, Elapsed: 0.249300, Overall: 0.281451 
+
+4 MPI Nodes:
+Nodes: 4
+Rank: 0, Elapsed: 0.243839, Overall: 0.269388 
+Rank: 1, Elapsed: 0.245913, Overall: 0.275736 
+Rank: 2, Elapsed: 0.241127, Overall: 0.272576 
+Rank: 3, Elapsed: 0.263033, Overall: 0.295880 
+Nodes: 4
+Rank: 1, Elapsed: 0.239766, Overall: 0.263938 
+Rank: 2, Elapsed: 0.242567, Overall: 0.266232 
+Rank: 0, Elapsed: 0.241718, Overall: 0.266588 
+Rank: 3, Elapsed: 0.243590, Overall: 0.267782 
+Nodes: 4
+Rank: 1, Elapsed: 0.239770, Overall: 0.263684 
+Rank: 2, Elapsed: 0.243766, Overall: 0.267117 
+Rank: 3, Elapsed: 0.243505, Overall: 0.267368 
+Rank: 0, Elapsed: 0.242664, Overall: 0.267298 
+Nodes: 4
+Rank: 3, Elapsed: 0.241159, Overall: 0.263585 
+Rank: 2, Elapsed: 0.244638, Overall: 0.267984 
+Rank: 0, Elapsed: 0.245109, Overall: 0.270033 
+Rank: 1, Elapsed: 0.243341, Overall: 0.266944 
+Nodes: 4
+Rank: 1, Elapsed: 0.240994, Overall: 0.264903 
+Rank: 3, Elapsed: 0.242341, Overall: 0.265760 
+Rank: 2, Elapsed: 0.243068, Overall: 0.266442 
+Rank: 0, Elapsed: 0.243257, Overall: 0.267943 
+Nodes: 4
+Rank: 1, Elapsed: 0.240219, Overall: 0.264798 
+Rank: 0, Elapsed: 0.240263, Overall: 0.264856 
+Rank: 3, Elapsed: 0.243362, Overall: 0.267152 
+Rank: 2, Elapsed: 0.244169, Overall: 0.267788 
+Nodes: 4
+Rank: 1, Elapsed: 0.239310, Overall: 0.264213 
+Rank: 3, Elapsed: 0.242509, Overall: 0.265946 
+Rank: 2, Elapsed: 0.243383, Overall: 0.267137 
+Rank: 0, Elapsed: 0.245277, Overall: 0.270096 
+Nodes: 4
+Rank: 0, Elapsed: 0.241073, Overall: 0.266042 
+Rank: 1, Elapsed: 0.241497, Overall: 0.265985 
+Rank: 2, Elapsed: 0.243700, Overall: 0.267213 
+Rank: 3, Elapsed: 0.244171, Overall: 0.267746 
+Nodes: 4
+Rank: 1, Elapsed: 0.240041, Overall: 0.263877 
+Rank: 3, Elapsed: 0.243913, Overall: 0.267716 
+Rank: 2, Elapsed: 0.244399, Overall: 0.267970 
+Rank: 0, Elapsed: 0.243499, Overall: 0.268546 
+Nodes: 4
+Rank: 1, Elapsed: 0.239548, Overall: 0.262615 
+Rank: 0, Elapsed: 0.243158, Overall: 0.267690 
+Rank: 3, Elapsed: 0.243884, Overall: 0.267283 
+Rank: 2, Elapsed: 0.244233, Overall: 0.267503 

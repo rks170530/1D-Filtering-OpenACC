@@ -1,0 +1,149 @@
+Bridges P100 GPU with SLI (mpicc -acc).
+
+1 MPI Node:
+Nodes: 1, GPUs: 2
+Rank: 0, Elapsed: 0.169836, Overall: 0.287169 
+Nodes: 1, GPUs: 2
+Rank: 0, Elapsed: 0.162248, Overall: 0.237921 
+Nodes: 1, GPUs: 2
+Rank: 0, Elapsed: 0.161618, Overall: 0.233980 
+Nodes: 1, GPUs: 2
+Rank: 0, Elapsed: 0.161553, Overall: 0.234157 
+Nodes: 1, GPUs: 2
+Rank: 0, Elapsed: 0.162172, Overall: 0.234935 
+Nodes: 1, GPUs: 2
+Rank: 0, Elapsed: 0.161392, Overall: 0.234787 
+Nodes: 1, GPUs: 2
+Rank: 0, Elapsed: 0.161304, Overall: 0.233804 
+Nodes: 1, GPUs: 2
+Rank: 0, Elapsed: 0.161905, Overall: 0.235131 
+Nodes: 1, GPUs: 2
+Rank: 0, Elapsed: 0.162582, Overall: 0.235567 
+Nodes: 1, GPUs: 2
+Rank: 0, Elapsed: 0.161315, Overall: 0.234345 
+
+2 MPI Nodes:
+Nodes: 2, GPUs: 2
+Rank: 0, Elapsed: 0.115616, Overall: 0.151548 
+Rank: 1, Elapsed: 0.114171, Overall: 0.164513 
+Nodes: 2, GPUs: 2
+Rank: 1, Elapsed: 0.115709, Overall: 0.152234 
+Rank: 0, Elapsed: 0.116239, Overall: 0.152227 
+Nodes: 2, GPUs: 2
+Rank: 0, Elapsed: 0.116719, Overall: 0.153602 
+Rank: 1, Elapsed: 0.114912, Overall: 0.150189 
+Nodes: 2, GPUs: 2
+Rank: 0, Elapsed: 0.115882, Overall: 0.152487 
+Rank: 1, Elapsed: 0.115808, Overall: 0.150916 
+Nodes: 2, GPUs: 2
+Rank: 1, Elapsed: 0.116170, Overall: 0.152045 
+Rank: 0, Elapsed: 0.116212, Overall: 0.152692 
+Nodes: 2, GPUs: 2
+Rank: 1, Elapsed: 0.115208, Overall: 0.150486 
+Rank: 0, Elapsed: 0.115856, Overall: 0.152263 
+Nodes: 2, GPUs: 2
+Rank: 0, Elapsed: 0.116218, Overall: 0.152405 
+Rank: 1, Elapsed: 0.116008, Overall: 0.151408 
+Nodes: 2, GPUs: 2
+Rank: 0, Elapsed: 0.115389, Overall: 0.151427 
+Rank: 1, Elapsed: 0.115950, Overall: 0.151439 
+Nodes: 2, GPUs: 2
+Rank: 1, Elapsed: 0.115057, Overall: 0.150152 
+Rank: 0, Elapsed: 0.115403, Overall: 0.151683 
+Nodes: 2, GPUs: 2
+Rank: 0, Elapsed: 0.116771, Overall: 0.153107 
+Rank: 1, Elapsed: 0.115041, Overall: 0.150727 
+
+3 MPI Nodes:
+Nodes: 3, GPUs: 2
+Rank: 0, Elapsed: 0.099953, Overall: 0.123292 
+Rank: 1, Elapsed: 0.099729, Overall: 0.127110 
+Rank: 2, Elapsed: 0.098057, Overall: 0.129557 
+Nodes: 3, GPUs: 2
+Rank: 0, Elapsed: 0.101100, Overall: 0.123917 
+Rank: 2, Elapsed: 0.098780, Overall: 0.122897 
+Rank: 1, Elapsed: 0.101131, Overall: 0.125027 
+Nodes: 3, GPUs: 2
+Rank: 2, Elapsed: 0.099637, Overall: 0.122070 
+Rank: 0, Elapsed: 0.099872, Overall: 0.123040 
+Rank: 1, Elapsed: 0.101407, Overall: 0.124800 
+Nodes: 3, GPUs: 2
+Rank: 0, Elapsed: 0.099043, Overall: 0.123007 
+Rank: 2, Elapsed: 0.100458, Overall: 0.123445 
+Rank: 1, Elapsed: 0.101163, Overall: 0.124380 
+Nodes: 3, GPUs: 2
+Rank: 2, Elapsed: 0.100219, Overall: 0.123128 
+Rank: 1, Elapsed: 0.101238, Overall: 0.123901 
+Rank: 0, Elapsed: 0.101274, Overall: 0.124418 
+Nodes: 3, GPUs: 2
+Rank: 0, Elapsed: 0.101018, Overall: 0.124128 
+Rank: 2, Elapsed: 0.099360, Overall: 0.122197 
+Rank: 1, Elapsed: 0.101424, Overall: 0.124383 
+Nodes: 3, GPUs: 2
+Rank: 2, Elapsed: 0.099175, Overall: 0.122002 
+Rank: 1, Elapsed: 0.101366, Overall: 0.124451 
+Rank: 0, Elapsed: 0.100822, Overall: 0.124988 
+Nodes: 3, GPUs: 2
+Rank: 2, Elapsed: 0.099556, Overall: 0.122057 
+Rank: 1, Elapsed: 0.101025, Overall: 0.124058 
+Rank: 0, Elapsed: 0.100901, Overall: 0.125135 
+Nodes: 3, GPUs: 2
+Rank: 0, Elapsed: 0.099967, Overall: 0.123219 
+Rank: 2, Elapsed: 0.100031, Overall: 0.122967 
+Rank: 1, Elapsed: 0.101058, Overall: 0.124580 
+Nodes: 3, GPUs: 2
+Rank: 0, Elapsed: 0.099694, Overall: 0.122932 
+Rank: 2, Elapsed: 0.100191, Overall: 0.124510 
+Rank: 1, Elapsed: 0.101028, Overall: 0.124101 
+
+4 MPI Nodes:
+Nodes: 4, GPUs: 2
+Rank: 0, Elapsed: 0.093082, Overall: 0.109831 
+Rank: 1, Elapsed: 0.091708, Overall: 0.112562 
+Rank: 2, Elapsed: 0.091733, Overall: 0.113766 
+Rank: 3, Elapsed: 0.090814, Overall: 0.115131 
+Nodes: 4, GPUs: 2
+Rank: 3, Elapsed: 0.092827, Overall: 0.109741 
+Rank: 1, Elapsed: 0.093011, Overall: 0.111139 
+Rank: 0, Elapsed: 0.093308, Overall: 0.110778 
+Rank: 2, Elapsed: 0.093583, Overall: 0.112095 
+Nodes: 4, GPUs: 2
+Rank: 1, Elapsed: 0.091907, Overall: 0.108810 
+Rank: 2, Elapsed: 0.092652, Overall: 0.110346 
+Rank: 0, Elapsed: 0.093340, Overall: 0.110754 
+Rank: 3, Elapsed: 0.092627, Overall: 0.110178 
+Nodes: 4, GPUs: 2
+Rank: 2, Elapsed: 0.093109, Overall: 0.109810 
+Rank: 3, Elapsed: 0.092303, Overall: 0.109830 
+Rank: 0, Elapsed: 0.092984, Overall: 0.110131 
+Rank: 1, Elapsed: 0.095773, Overall: 0.114944 
+Nodes: 4, GPUs: 2
+Rank: 1, Elapsed: 0.092411, Overall: 0.109657 
+Rank: 2, Elapsed: 0.092267, Overall: 0.109823 
+Rank: 3, Elapsed: 0.092368, Overall: 0.110222 
+Rank: 0, Elapsed: 0.093074, Overall: 0.110250 
+Nodes: 4, GPUs: 2
+Rank: 3, Elapsed: 0.092786, Overall: 0.109508 
+Rank: 1, Elapsed: 0.092865, Overall: 0.109443 
+Rank: 2, Elapsed: 0.093156, Overall: 0.110345 
+Rank: 0, Elapsed: 0.093008, Overall: 0.111084 
+Nodes: 4, GPUs: 2
+Rank: 2, Elapsed: 0.093159, Overall: 0.109870 
+Rank: 3, Elapsed: 0.092667, Overall: 0.110278 
+Rank: 1, Elapsed: 0.093522, Overall: 0.111516 
+Rank: 0, Elapsed: 0.092412, Overall: 0.109873 
+Nodes: 4, GPUs: 2
+Rank: 2, Elapsed: 0.092508, Overall: 0.109324 
+Rank: 1, Elapsed: 0.091996, Overall: 0.108322 
+Rank: 0, Elapsed: 0.092383, Overall: 0.109887 
+Rank: 3, Elapsed: 0.092829, Overall: 0.109338 
+Nodes: 4, GPUs: 2
+Rank: 3, Elapsed: 0.093179, Overall: 0.109516 
+Rank: 0, Elapsed: 0.093028, Overall: 0.110649 
+Rank: 2, Elapsed: 0.091373, Overall: 0.109136 
+Rank: 1, Elapsed: 0.093437, Overall: 0.110964 
+Nodes: 4, GPUs: 2
+Rank: 2, Elapsed: 0.092070, Overall: 0.109069 
+Rank: 0, Elapsed: 0.092985, Overall: 0.110205 
+Rank: 1, Elapsed: 0.092986, Overall: 0.110471 
+Rank: 3, Elapsed: 0.133967, Overall: 0.162324 
